@@ -7,7 +7,7 @@ layout: default
 ## About Me
 
 I am **{{ site.profile.role }}** at **{{ site.profile.org }}**.  
-My research interests include **(your keywords here)**.  
+My research interests include **(Numerical Simulation in Geological Engineering)**.  
 You can reach me at **{{ site.profile.email }}**.
 
 <div id="news" class="section"></div>
@@ -48,3 +48,4 @@ You can reach me at **{{ site.profile.email }}**.
 </div>
 
 {% endfor %}
+
