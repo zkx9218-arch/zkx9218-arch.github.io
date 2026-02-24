@@ -4,8 +4,8 @@
   url: "/#about"
 - name: "News"
   url: "/#news"
-- name: "Selected Publications"
-  url: "/#selected-publications"
+- name: "Competitions"
+  url: "/#competitions"
 - name: "Services"
   url: "/services"
 - name: "Invited Talks"
@@ -19,3 +19,4 @@
 - name: "Publications (Full)"
 
   url: "/publications"
+
