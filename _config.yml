@@ -47,13 +47,14 @@ selected_publications:
     authors: "Team Member: Kexin Zhang"
     venue: "Chang'an University"
     bullets:
-     - "项目负责人"
+      - "项目负责人"
       - "负责项目整体方案设计与实现。"
       - "完成模型构建、实验分析与展示汇报。"
     links:
       - label: "Report"
         url: "#"
     image: "/assets/img/pubs/paper2.jpg"
+
 
 
 
