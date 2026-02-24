@@ -29,9 +29,8 @@ news:
     text: "We are developing FlowSim2D"
 
 selected_publications:
-
   - title: "挑战杯中国大学生创业计划竞赛金奖"
-    project: "灾链智囊——滑坡灾害链人工智能识别与预测系统"
+    project_name: "灾链智囊——滑坡灾害链人工智能识别与预测系统"
     authors: "Team Leader: Kexin Zhang · Chang'an University"
     venue: "National Competition, 2025"
     bullets:
@@ -44,7 +43,7 @@ selected_publications:
     image: "/assets/img/pubs/paper1.jpg"
 
   - title: "长安大学“创业先锋”挑战赛金奖"
-    project: "灾链智囊——地震动-数值模拟耦合滑坡灾害链智能识别与预测系统"
+    project_name: "灾链智囊——地震动-数值模拟耦合滑坡灾害链智能识别与预测系统"
     authors: "Team Member: Kexin Zhang"
     venue: "Chang'an University"
     bullets:
@@ -55,6 +54,7 @@ selected_publications:
       - label: "Report"
         url: "#"
     image: "/assets/img/pubs/paper2.jpg"
+
 
 
 
