@@ -1,6 +1,6 @@
-title: "Your Name"
+title: "Kexin Zhang"
 description: "Academic Homepage"
-url: "https://YOUR_USERNAME.github.io"
+url: "https://KexinZhang.github.io"
 baseurl: ""
 
 markdown: kramdown
@@ -8,12 +8,12 @@ theme: minima
 
 # 个人信息（左侧栏用）
 profile:
-  name: "Your Name"
-  name_cn: "中文名"
-  role: "PhD Student / Lecturer"
-  org: "Your University"
-  location: "City, Country"
-  email: "you@university.edu"
+  name: "Kexin Zhang"
+  name_cn: "张柯鑫"
+  role: "Undergraduate Student"
+  org: "Chang'an University"
+  location: "Xian,China"
+  email: "2025906198.chd.edu.cn"
   avatar: "/assets/img/avatar.jpg"
   links:
     - label: "GitHub"
@@ -25,8 +25,6 @@ profile:
 
 # News（主页展示）
 news:
-  - date: "2026-02"
-    text: "Our paper “XXX” was accepted by IEEE TMC."
   - date: "2026-01"
     text: "We released FlowSim2D v0.1."
 
@@ -53,4 +51,5 @@ selected_publications:
     links:
       - label: "Project"
         url: "https://example.com/project"
+
     image: "/assets/img/pubs/paper2.png"
