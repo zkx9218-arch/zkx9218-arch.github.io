@@ -1,6 +1,6 @@
 title: "Kexin Zhang"
 description: "Academic Homepage"
-url: "https://KexinZhang.github.io"
+url: "https://zkx9218-arch.github.io"
 baseurl: ""
 
 markdown: kramdown
@@ -53,3 +53,4 @@ selected_publications:
         url: "https://example.com/project"
 
     image: "/assets/img/pubs/paper2.png"
+
