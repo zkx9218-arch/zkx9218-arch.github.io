@@ -17,7 +17,7 @@ profile:
   avatar: "/assets/img/avatar.jpg"
   links:
     - label: "GitHub"
-      url: "https://github.com/YOUR_USERNAME"
+      url: "https://github.com/zkx9218-arch"
     - label: "Google Scholar"
       url: "https://scholar.google.com/"
     - label: "ResearchGate"
@@ -26,32 +26,33 @@ profile:
 # News（主页展示）
 news:
   - date: "2026-01"
-    text: "We released FlowSim2D v0.1."
+    text: "We released FlowSim2D"
 
-# Selected Publications（主页展示）
 selected_publications:
-  - title: "Paper Title 1"
-    authors: "Your Name, Coauthor A, Coauthor B"
-    venue: "Conference/Journal, 2026"
-    bullets:
-      - "One-sentence contribution highlight."
-      - "Another key point (optional)."
-    links:
-      - label: "PDF"
-        url: "https://example.com/paper.pdf"
-      - label: "Code"
-        url: "https://github.com/YOUR_USERNAME/repo"
-    image: "/assets/img/pubs/paper1.png"
 
-  - title: "Paper Title 2"
-    authors: "Your Name, Coauthor C"
-    venue: "Conference/Journal, 2025"
+  - title: "挑战杯中国大学生创业计划竞赛"
+    authors: "Team Leader: Kexin Zhang · Chang'an University"
+    venue: "National Competition, 2025"
     bullets:
-      - "Contribution highlight."
+      - "项目负责人"
+      - "负责项目整体方案设计与实现。"
+      - "完成模型构建、实验分析与展示汇报。"
     links:
       - label: "Project"
-        url: "https://example.com/project"
+        url: "#"
+    image: "/assets/img/pubs/paper1.jpg"
 
-    image: "/assets/img/pubs/paper2.png"
+  - title: "长安大学“创业先锋”挑战赛"
+    authors: "Team Member: Kexin Zhang"
+    venue: "Chang'an University"
+    bullets:
+     - "项目负责人"
+      - "负责项目整体方案设计与实现。"
+      - "完成模型构建、实验分析与展示汇报。"
+    links:
+      - label: "Report"
+        url: "#"
+    image: "/assets/img/pubs/paper2.jpg"
+
 
 
