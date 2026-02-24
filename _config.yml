@@ -26,7 +26,7 @@ profile:
 # News（主页展示）
 news:
   - date: "2026-01"
-    text: "We released FlowSim2D"
+    text: "We are developing FlowSim2D"
 
 selected_publications:
 
@@ -53,6 +53,7 @@ selected_publications:
       - label: "Report"
         url: "#"
     image: "/assets/img/pubs/paper2.jpg"
+
 
 
 
