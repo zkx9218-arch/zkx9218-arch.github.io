@@ -1,0 +1,7 @@
+<header class="topbar">
+  <nav class="nav">
+    {% for item in site.data.nav %}
+      <a class="nav-link" href="{{ item.url | relative_url }}">{{ item.name }}</a>
+    {% endfor %}
+  </nav>
+</header>

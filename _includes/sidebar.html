@@ -1,0 +1,19 @@
+<aside class="sidebar">
+  <div class="profile">
+    <img class="avatar" src="{{ site.profile.avatar | relative_url }}" alt="avatar" />
+    <div class="name">{{ site.profile.name }} <span class="name-cn">({{ site.profile.name_cn }})</span></div>
+    <div class="role">{{ site.profile.role }}</div>
+    <div class="org">{{ site.profile.org }}</div>
+
+    <div class="meta">
+      <div class="meta-item">📍 {{ site.profile.location }}</div>
+      <div class="meta-item">✉️ {{ site.profile.email }}</div>
+    </div>
+
+    <div class="links">
+      {% for l in site.profile.links %}
+        <a class="link" href="{{ l.url }}" target="_blank" rel="noopener">{{ l.label }}</a>
+      {% endfor %}
+    </div>
+  </div>
+</aside>
