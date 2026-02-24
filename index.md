@@ -22,7 +22,7 @@ You can reach me at **{{ site.profile.email }}**.
 
 <div id="selected-publications" class="section"></div>
 
-## Selected Publications
+## Selected Competitions
 
 {% for p in site.selected_publications %}
 <div class="pub-card">
@@ -46,4 +46,5 @@ You can reach me at **{{ site.profile.email }}**.
     {% endif %}
   </div>
 </div>
+
 {% endfor %}
