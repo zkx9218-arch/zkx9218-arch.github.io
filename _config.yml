@@ -1,0 +1,56 @@
+title: "Your Name"
+description: "Academic Homepage"
+url: "https://YOUR_USERNAME.github.io"
+baseurl: ""
+
+markdown: kramdown
+theme: minima
+
+# 个人信息（左侧栏用）
+profile:
+  name: "Your Name"
+  name_cn: "中文名"
+  role: "PhD Student / Lecturer"
+  org: "Your University"
+  location: "City, Country"
+  email: "you@university.edu"
+  avatar: "/assets/img/avatar.jpg"
+  links:
+    - label: "GitHub"
+      url: "https://github.com/YOUR_USERNAME"
+    - label: "Google Scholar"
+      url: "https://scholar.google.com/"
+    - label: "ResearchGate"
+      url: "https://www.researchgate.net/"
+
+# News（主页展示）
+news:
+  - date: "2026-02"
+    text: "Our paper “XXX” was accepted by IEEE TMC."
+  - date: "2026-01"
+    text: "We released FlowSim2D v0.1."
+
+# Selected Publications（主页展示）
+selected_publications:
+  - title: "Paper Title 1"
+    authors: "Your Name, Coauthor A, Coauthor B"
+    venue: "Conference/Journal, 2026"
+    bullets:
+      - "One-sentence contribution highlight."
+      - "Another key point (optional)."
+    links:
+      - label: "PDF"
+        url: "https://example.com/paper.pdf"
+      - label: "Code"
+        url: "https://github.com/YOUR_USERNAME/repo"
+    image: "/assets/img/pubs/paper1.png"
+
+  - title: "Paper Title 2"
+    authors: "Your Name, Coauthor C"
+    venue: "Conference/Journal, 2025"
+    bullets:
+      - "Contribution highlight."
+    links:
+      - label: "Project"
+        url: "https://example.com/project"
+    image: "/assets/img/pubs/paper2.png"
