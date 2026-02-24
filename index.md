@@ -20,7 +20,7 @@ You can reach me at **{{ site.profile.email }}**.
 {% endfor %}
 </ul>
 
-<div id="selected-publications" class="section"></div>
+<div id="competitions" class="section"></div>
 
 ## Selected Competitions
 
@@ -48,4 +48,5 @@ You can reach me at **{{ site.profile.email }}**.
 </div>
 
 {% endfor %}
+
 
